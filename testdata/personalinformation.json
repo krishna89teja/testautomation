@@ -1,0 +1,17 @@
+{
+    "personal_info":{
+    "Title": "Mr.",
+    "FirstName": "Rohit",
+    "LastName": "Sharma",
+    "Email": "rohit.sharma@gmail.com",
+    "Password": "rohit123",
+    "DateOfBirth": "07/01/1992",
+
+    "Address": "102,201,florida",
+    "City": "Florida",
+    "State": "Florida",
+    "Zip": 10212,
+    "Mobile Number": "2222222222",
+    "alias address": "united states"
+    }
+}
